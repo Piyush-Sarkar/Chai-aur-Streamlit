@@ -95,19 +95,19 @@ Each chapter file is independent and demonstrates specific Streamlit concepts:
 
 ```bash
 # Run Chapter 1 - Introduction to Streamlit
-streamlit run chapter-one.py
+uvx streamlit run chapter-one.py
 
 # Run Chapter 2 - Data handling
-streamlit run chapter-two.py
+uvx streamlit run chapter-two.py
 
 # Run Chapter 3 - Interactive features
-streamlit run chapter-three.py
+uvx streamlit run chapter-three.py
 
 # Run Chapter 4 - Advanced features
-streamlit run chapter-four.py
+uvx streamlit run chapter-four.py
 
 # Run Chapter 5 - Complex interactions
-streamlit run chapter-five.py
+uvx streamlit run chapter-five.py
 ```
 
 ### Running the Demo Dashboard
@@ -115,10 +115,12 @@ streamlit run chapter-five.py
 The complete example showcasing all features together:
 
 ```bash
-streamlit run demo-dashboard.py
+uvx streamlit run demo-dashboard.py
 ```
 
 The app will open in your default web browser at `http://localhost:8501`
+
+**Note:** If using a traditional pip environment, use `streamlit run demo-dashboard.py` instead of `uvx streamlit run demo-dashboard.py`
 
 ## Chapter Breakdown
 
