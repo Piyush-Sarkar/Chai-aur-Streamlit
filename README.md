@@ -257,7 +257,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Piyush Sarkar**
 - GitHub: [@Piyush-Sarkar](https://github.com/Piyush-Sarkar)
-- Email: [Your Email]
 
 ## Acknowledgments
 
